@@ -1,0 +1,1 @@
+{"version":2,"name":"bClipsExpress","builds":[{"src":"**/*.js","use":"@now/node"}]}
